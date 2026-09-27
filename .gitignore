@@ -1,0 +1,9 @@
+# Ignore large binary AnnData files (>100MB) from git history
+# (These 5 files are attached to the GitHub Release on this repository)
+processed_data/*.h5ad
+
+# OS / Python files
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
