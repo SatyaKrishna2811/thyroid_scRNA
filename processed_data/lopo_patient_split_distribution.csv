@@ -1,0 +1,45 @@
+Fold,Held_Out_Patient,Tissue,Train_Cells,Test_Cells
+1,PTC1,LN Metastasis,16723,0
+1,PTC1,Paratumor,6813,10
+1,PTC1,Primary Tumor,20498,35
+1,PTC1,RAI-Refractory Metastasis,5340,0
+2,PTC10,LN Metastasis,11608,5115
+2,PTC10,Paratumor,6823,0
+2,PTC10,Primary Tumor,11197,9336
+2,PTC10,RAI-Refractory Metastasis,5340,0
+3,PTC11,LN Metastasis,15250,1473
+3,PTC11,Paratumor,6823,0
+3,PTC11,Primary Tumor,20533,0
+3,PTC11,RAI-Refractory Metastasis,267,5073
+4,PTC2,LN Metastasis,16723,0
+4,PTC2,Paratumor,6822,1
+4,PTC2,Primary Tumor,20533,0
+4,PTC2,RAI-Refractory Metastasis,5340,0
+5,PTC3,LN Metastasis,16631,92
+5,PTC3,Paratumor,6772,51
+5,PTC3,Primary Tumor,20315,218
+5,PTC3,RAI-Refractory Metastasis,5340,0
+6,PTC4,LN Metastasis,16723,0
+6,PTC4,Paratumor,6823,0
+6,PTC4,Primary Tumor,20533,0
+6,PTC4,RAI-Refractory Metastasis,5073,267
+7,PTC5,LN Metastasis,11131,5592
+7,PTC5,Paratumor,5265,1558
+7,PTC5,Primary Tumor,18947,1586
+7,PTC5,RAI-Refractory Metastasis,5340,0
+8,PTC6,LN Metastasis,14154,2569
+8,PTC6,Paratumor,6823,0
+8,PTC6,Primary Tumor,20533,0
+8,PTC6,RAI-Refractory Metastasis,5340,0
+9,PTC7,LN Metastasis,14841,1882
+9,PTC7,Paratumor,6823,0
+9,PTC7,Primary Tumor,20533,0
+9,PTC7,RAI-Refractory Metastasis,5340,0
+10,PTC8,LN Metastasis,16723,0
+10,PTC8,Paratumor,1994,4829
+10,PTC8,Primary Tumor,15528,5005
+10,PTC8,RAI-Refractory Metastasis,5340,0
+11,PTC9,LN Metastasis,16723,0
+11,PTC9,Paratumor,6449,374
+11,PTC9,Primary Tumor,16180,4353
+11,PTC9,RAI-Refractory Metastasis,5340,0

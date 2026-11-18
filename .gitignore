@@ -1,0 +1,17 @@
+# Data and large binary files
+data/
+processed_data/*.h5ad
+*.h5ad
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments & IDE
+.venv/
+env/
+venv/
+.idea/
+.vscode/

@@ -1,0 +1,16 @@
+Gene,Type,Mean_Baseline_Expr,Delta_RAI_Index,Shift_in_Pseudotime,Therapeutic_Reversal_Effect
+S100A6,Driver Candidate,4.487927,1.2965449940281533,-0.3246393968815228,Redifferentiation (Desirable)
+B2M,Random Control,3.8767908,0.5190821360764065,-0.12997197348645043,Redifferentiation (Desirable)
+FN1,Driver Candidate,2.5991087,0.4106361551477372,-0.10281839377647867,Redifferentiation (Desirable)
+ACTB,Random Control,2.5689216,0.39100221866991075,-0.09790229034317713,Redifferentiation (Desirable)
+S100A4,Driver Candidate,2.4390519,0.3615800649153083,-0.0905353340911042,Redifferentiation (Desirable)
+LGALS3,Driver Candidate,2.0155098,0.3523800043113375,-0.08823174868565879,Redifferentiation (Desirable)
+GAPDH,Random Control,2.508844,0.2637197111222066,-0.06603226911431316,Redifferentiation (Desirable)
+FOS,TF Candidate,1.9108908,0.190915682270744,-0.047803008945367126,Redifferentiation (Desirable)
+JUN,TF Candidate,1.7645882,0.190557582518824,-0.04771334504012496,Redifferentiation (Desirable)
+RUNX2,TF Candidate,0.057409313,0.003606027783839761,-0.0009029063320407487,Neutral / Minimal Effect
+SOX9,TF Candidate,0.1634653,-0.013511980386319991,0.0033832386716188567,Dedifferentiation (Worse)
+EEF1A1,Random Control,4.3821135,-0.12548838324786946,0.03142079391063626,Dedifferentiation (Worse)
+NKX2-1,Differentiation Factor,1.0687734,-0.2584521201963239,0.0647133271963129,Dedifferentiation (Worse)
+PAX8,Differentiation Factor,1.0365138,-0.32261790851667066,0.08077967500274506,Dedifferentiation (Worse)
+MALAT1,Random Control,6.4357767,-0.9483581148019187,0.23745755668723645,Dedifferentiation (Worse)

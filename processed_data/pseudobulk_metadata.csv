@@ -1,0 +1,21 @@
+patient_id,tissue_type,number_of_cells
+PTC1,Paratumor,10
+PTC1,Primary Tumor,35
+PTC2,Paratumor,1
+PTC3,LN Metastasis,92
+PTC3,Paratumor,51
+PTC3,Primary Tumor,218
+PTC4,RAI-Refractory Metastasis,267
+PTC5,LN Metastasis,5592
+PTC5,Paratumor,1558
+PTC5,Primary Tumor,1586
+PTC6,LN Metastasis,2569
+PTC7,LN Metastasis,1882
+PTC8,Paratumor,4829
+PTC8,Primary Tumor,5005
+PTC9,Paratumor,374
+PTC9,Primary Tumor,4353
+PTC10,LN Metastasis,5115
+PTC10,Primary Tumor,9336
+PTC11,LN Metastasis,1473
+PTC11,RAI-Refractory Metastasis,5073
